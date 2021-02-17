@@ -17,7 +17,7 @@ const highlightMenu = () => {
 	const elem = document.querySelector('.highlight');
 	const homeMenu = document.querySelector('#home-page');
 	const aboutMenu = document.querySelector('#about');
-	const servicesMenu = document.querySelector('#profile');
+	const servicesMenu = document.querySelector('#services');
 	let scrollPos = window.scrollY;
 	// console.log(scrollPos);
 
@@ -44,6 +44,17 @@ const highlightMenu = () => {
 
 window.addEventListener('scroll', highlightMenu);
 window.addEventListener('click', highlightMenu);
+//  Close mobile Menu when clicking on a menu item
+const hideMobileMenu = () => {
+  const menuBars = document.querySelector('.is-active');
+  if (window.innerWidth <= 768 && menuBars) {
+    menu.classList.toggle('is-active');
+    menuLinks.classList.remove('active');
+  }
+};
+
+menuLinks.addEventListener('click', hideMobileMenu);
+navLogo.addEventListener('click', hideMobileMenu);
 
 //  Close mobile Menu when clicking on a menu item
 const hideMobileMenu = () => {
