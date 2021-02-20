@@ -89,7 +89,7 @@ a:hover {
 }
 
 .tm-welcome-container {
-  min-height: 300px;
+  min-height: 245px;
   position: absolute;
   bottom: 275px;
   width: 54%;
@@ -115,11 +115,17 @@ a:hover {
 .tm-welcome-right {
   color: white;
   background-color: #986665;
-  padding: 80px 43px 70px;
-  height: 80%;
+  padding: 60px 43px 70px;
+  height: 45%;
   margin-top: -20px;
+	margin-left: 110%;
   min-width: 270px;
   max-width: 270px;
+	min-height: 165px;
+	max-height: 230px;
+	z-index:2 ;
+	margin-left: 110%;
+	
 }
 
 .tm-welcome-icon {
