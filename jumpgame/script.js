@@ -8,10 +8,10 @@ function jump() {
     dino.classList.remove("jump-animation"), 500);
 }
 
-document.addEventListener('keypress', (event) => {
-  if (!dino.classList.contains('jump-animation')) {
-    jump();
-  }
+// document.addEventListener('keypress', (event) => {
+//   if (!dino.classList.contains('jump-animation')) {
+//     jump();
+//   }
 	document.addEventListener('touchstart', (event) => {
   if (!dino.classList.contains('jump-animation')) {
     jump();
