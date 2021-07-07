@@ -4,4 +4,4 @@
 
 Making the chrome dinosour (no internet connection) game.
 
-![Screenshot 2020-11-08 at 14 47 06](https://user-images.githubusercontent.com/17026751/98468228-6f0df800-21d1-11eb-94f2-034a5f610145.png)
+![스크린샷(65)](https://user-images.githubusercontent.com/70807200/124698421-0c771400-dea6-11eb-9d36-b70bb3bf18c1.png)
