@@ -1,6 +1,6 @@
-# chrome-dino-game
+# chrome-Pooh-game
 
-[YouTube Tutorial Video](https://youtu.be/4Oz34co7VLY)
+
 
 Making the chrome dinosour (no internet connection) game.
 
