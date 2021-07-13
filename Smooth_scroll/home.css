@@ -8,7 +8,7 @@
 }
 
 .navbar {
-    background: #131313;
+    background: #f0f0f0;
     height: 80px;
     display: flex;
     justify-content: center;
@@ -60,7 +60,7 @@
 }
 
 .navbar__links {
-	color: #fff;
+	color: #131313;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -139,13 +139,14 @@ background: linear-gradient(to right, #49a09d, #5f2c82); /* W3C, IE 10+/ Edge, F
 		
 	}
 	.navbar__menu.active {
-		background: #131313;
+		background: #f0f0f0;
 		top: 100%;
 		opacity:1;
 		transition: all 0.5s ease;
 		z-index: 99;
 		height: 60vh;
 		font-size: 1.6rem;
+		border-radius: 4px;
 		
 		
 	}
@@ -194,6 +195,8 @@ background: linear-gradient(to right, #49a09d, #5f2c82); /* W3C, IE 10+/ Edge, F
 	.navbar__toggle .bar {
 		display: block;
 		cursor: pointer;
+		background: black;
+		border-radius: 2px;
 	}
 	#mobile-menu.is-active .bar:nth-child(2) {
 		opacity: 0;
