@@ -69,6 +69,7 @@ a:hover {
 
 .tm-brand-container {
   padding: 75px 110px;
+  border-radius: 15px;
 }
 
 .tm-brand-name {
