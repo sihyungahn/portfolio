@@ -2,7 +2,7 @@ sky {
   display: block;
   background: black;
   width: 100vw;
-  height: 100vh;
+  height: 73vh;
 }
 
 star {
@@ -19,7 +19,7 @@ star:nth-child(1) {
           animation-duration: 43s;
   -webkit-animation-delay: -10s;
           animation-delay: -10s;
-  top: 84vh;
+  top: 400vh;
 }
 star:nth-child(2) {
   width: 9px;
@@ -37,7 +37,7 @@ star:nth-child(3) {
           animation-duration: 16s;
   -webkit-animation-delay: -31s;
           animation-delay: -31s;
-  top: 65vh;
+  top: 265vh;
 }
 star:nth-child(4) {
   width: 4px;
@@ -46,7 +46,7 @@ star:nth-child(4) {
           animation-duration: 16s;
   -webkit-animation-delay: -13s;
           animation-delay: -13s;
-  top: 98vh;
+  top: 198vh;
 }
 star:nth-child(5) {
   width: 6px;
@@ -55,7 +55,7 @@ star:nth-child(5) {
           animation-duration: 40s;
   -webkit-animation-delay: -8s;
           animation-delay: -8s;
-  top: 39vh;
+  top: 139vh;
 }
 star:nth-child(6) {
   width: 9px;
@@ -64,7 +64,7 @@ star:nth-child(6) {
           animation-duration: 31s;
   -webkit-animation-delay: -28s;
           animation-delay: -28s;
-  top: 94vh;
+  top: 194vh;
 }
 star:nth-child(7) {
   width: 4px;
@@ -109,7 +109,7 @@ star:nth-child(11) {
           animation-duration: 22s;
   -webkit-animation-delay: -1s;
           animation-delay: -1s;
-  top: 43vh;
+  top: 143vh;
 }
 star:nth-child(12) {
   width: 8px;
@@ -118,7 +118,7 @@ star:nth-child(12) {
           animation-duration: 26s;
   -webkit-animation-delay: -17s;
           animation-delay: -17s;
-  top: 65vh;
+  top: 165vh;
 }
 star:nth-child(13) {
   width: 5px;
@@ -127,7 +127,7 @@ star:nth-child(13) {
           animation-duration: 29s;
   -webkit-animation-delay: -19s;
           animation-delay: -19s;
-  top: 64vh;
+  top: 264vh;
 }
 star:nth-child(14) {
   width: 5px;
@@ -136,7 +136,7 @@ star:nth-child(14) {
           animation-duration: 36s;
   -webkit-animation-delay: -26s;
           animation-delay: -26s;
-  top: 17vh;
+  top: 317vh;
 }
 star:nth-child(15) {
   width: 8px;
@@ -145,7 +145,7 @@ star:nth-child(15) {
           animation-duration: 20s;
   -webkit-animation-delay: -36s;
           animation-delay: -36s;
-  top: 9vh;
+  top: 309vh;
 }
 star:nth-child(16) {
   width: 8px;
@@ -154,7 +154,7 @@ star:nth-child(16) {
           animation-duration: 21s;
   -webkit-animation-delay: -18s;
           animation-delay: -18s;
-  top: 41vh;
+  top: 401vh;
 }
 star:nth-child(17) {
   width: 9px;
@@ -163,7 +163,7 @@ star:nth-child(17) {
           animation-duration: 22s;
   -webkit-animation-delay: 0s;
           animation-delay: 0s;
-  top: 5vh;
+  top: 520vh;
 }
 star:nth-child(18) {
   width: 10px;
@@ -172,7 +172,7 @@ star:nth-child(18) {
           animation-duration: 30s;
   -webkit-animation-delay: -18s;
           animation-delay: -18s;
-  top: 46vh;
+  top: 460vh;
 }
 star:nth-child(19) {
   width: 7px;
@@ -181,7 +181,7 @@ star:nth-child(19) {
           animation-duration: 40s;
   -webkit-animation-delay: -28s;
           animation-delay: -28s;
-  top: 66vh;
+  top: 266vh;
 }
 star:nth-child(20) {
   width: 8px;
@@ -190,7 +190,7 @@ star:nth-child(20) {
           animation-duration: 24s;
   -webkit-animation-delay: -5s;
           animation-delay: -5s;
-  top: 82vh;
+  top: 282vh;
 }
 star:nth-child(21) {
   width: 4px;
@@ -199,7 +199,7 @@ star:nth-child(21) {
           animation-duration: 43s;
   -webkit-animation-delay: -16s;
           animation-delay: -16s;
-  top: 100vh;
+  top: 170vh;
 }
 star:nth-child(22) {
   width: 10px;
@@ -208,7 +208,7 @@ star:nth-child(22) {
           animation-duration: 37s;
   -webkit-animation-delay: -25s;
           animation-delay: -25s;
-  top: 76vh;
+  top: 176vh;
 }
 star:nth-child(23) {
   width: 4px;
@@ -217,7 +217,7 @@ star:nth-child(23) {
           animation-duration: 35s;
   -webkit-animation-delay: -22s;
           animation-delay: -22s;
-  top: 72vh;
+  top: 272vh;
 }
 star:nth-child(24) {
   width: 4px;
@@ -226,7 +226,7 @@ star:nth-child(24) {
           animation-duration: 19s;
   -webkit-animation-delay: -4s;
           animation-delay: -4s;
-  top: 72vh;
+  top: 372vh;
 }
 star:nth-child(25) {
   width: 6px;
@@ -235,7 +235,7 @@ star:nth-child(25) {
           animation-duration: 45s;
   -webkit-animation-delay: -14s;
           animation-delay: -14s;
-  top: 82vh;
+  top: 482vh;
 }
 star:nth-child(26) {
   width: 8px;
@@ -262,7 +262,7 @@ star:nth-child(28) {
           animation-duration: 34s;
   -webkit-animation-delay: -17s;
           animation-delay: -17s;
-  top: 1vh;
+  top: 11vh;
 }
 star:nth-child(29) {
   width: 10px;
@@ -271,7 +271,7 @@ star:nth-child(29) {
           animation-duration: 36s;
   -webkit-animation-delay: -13s;
           animation-delay: -13s;
-  top: 53vh;
+  top: 453vh;
 }
 star:nth-child(30) {
   width: 6px;
@@ -280,7 +280,7 @@ star:nth-child(30) {
           animation-duration: 19s;
   -webkit-animation-delay: -33s;
           animation-delay: -33s;
-  top: 77vh;
+  top: 377vh;
 }
 star:nth-child(31) {
   width: 7px;
@@ -307,7 +307,7 @@ star:nth-child(33) {
           animation-duration: 36s;
   -webkit-animation-delay: -16s;
           animation-delay: -16s;
-  top: 59vh;
+  top: 159vh;
 }
 star:nth-child(34) {
   width: 5px;
@@ -316,7 +316,7 @@ star:nth-child(34) {
           animation-duration: 45s;
   -webkit-animation-delay: -30s;
           animation-delay: -30s;
-  top: 78vh;
+  top: 278vh;
 }
 star:nth-child(35) {
   width: 10px;
@@ -352,7 +352,7 @@ star:nth-child(38) {
           animation-duration: 21s;
   -webkit-animation-delay: -23s;
           animation-delay: -23s;
-  top: 46vh;
+  top: 146vh;
 }
 star:nth-child(39) {
   width: 7px;
@@ -361,7 +361,7 @@ star:nth-child(39) {
           animation-duration: 25s;
   -webkit-animation-delay: -22s;
           animation-delay: -22s;
-  top: 25vh;
+  top: 125vh;
 }
 star:nth-child(40) {
   width: 6px;
@@ -370,7 +370,7 @@ star:nth-child(40) {
           animation-duration: 37s;
   -webkit-animation-delay: -17s;
           animation-delay: -17s;
-  top: 36vh;
+  top: 136vh;
 }
 star:nth-child(41) {
   width: 8px;
@@ -379,7 +379,7 @@ star:nth-child(41) {
           animation-duration: 43s;
   -webkit-animation-delay: -18s;
           animation-delay: -18s;
-  top: 2vh;
+  top: 22vh;
 }
 star:nth-child(42) {
   width: 4px;
@@ -397,7 +397,7 @@ star:nth-child(43) {
           animation-duration: 42s;
   -webkit-animation-delay: -29s;
           animation-delay: -29s;
-  top: 60vh;
+  top: 360vh;
 }
 star:nth-child(44) {
   width: 10px;
@@ -406,7 +406,7 @@ star:nth-child(44) {
           animation-duration: 31s;
   -webkit-animation-delay: -37s;
           animation-delay: -37s;
-  top: 76vh;
+  top: 476vh;
 }
 star:nth-child(45) {
   width: 10px;
@@ -415,7 +415,7 @@ star:nth-child(45) {
           animation-duration: 42s;
   -webkit-animation-delay: -3s;
           animation-delay: -3s;
-  top: 65vh;
+  top: 565vh;
 }
 star:nth-child(46) {
   width: 5px;
@@ -424,7 +424,7 @@ star:nth-child(46) {
           animation-duration: 16s;
   -webkit-animation-delay: -10s;
           animation-delay: -10s;
-  top: 15vh;
+  top: 415vh;
 }
 star:nth-child(47) {
   width: 8px;
@@ -433,7 +433,7 @@ star:nth-child(47) {
           animation-duration: 45s;
   -webkit-animation-delay: -7s;
           animation-delay: -7s;
-  top: 89vh;
+  top: 389vh;
 }
 star:nth-child(48) {
   width: 7px;
@@ -442,7 +442,7 @@ star:nth-child(48) {
           animation-duration: 36s;
   -webkit-animation-delay: -16s;
           animation-delay: -16s;
-  top: 99vh;
+  top: 199vh;
 }
 star:nth-child(49) {
   width: 8px;
@@ -451,7 +451,7 @@ star:nth-child(49) {
           animation-duration: 27s;
   -webkit-animation-delay: -4s;
           animation-delay: -4s;
-  top: 55vh;
+  top: 155vh;
 }
 star:nth-child(50) {
   width: 10px;
@@ -460,7 +460,7 @@ star:nth-child(50) {
           animation-duration: 43s;
   -webkit-animation-delay: -7s;
           animation-delay: -7s;
-  top: 19vh;
+  top: 219vh;
 }
 star:nth-child(51) {
   width: 10px;
@@ -469,7 +469,7 @@ star:nth-child(51) {
           animation-duration: 22s;
   -webkit-animation-delay: -14s;
           animation-delay: -14s;
-  top: 81vh;
+  top: 181vh;
 }
 star:nth-child(52) {
   width: 7px;
@@ -478,7 +478,7 @@ star:nth-child(52) {
           animation-duration: 40s;
   -webkit-animation-delay: -8s;
           animation-delay: -8s;
-  top: 48vh;
+  top: 148vh;
 }
 star:nth-child(53) {
   width: 6px;
@@ -487,7 +487,7 @@ star:nth-child(53) {
           animation-duration: 31s;
   -webkit-animation-delay: -34s;
           animation-delay: -34s;
-  top: 100vh;
+  top: 110vh;
 }
 star:nth-child(54) {
   width: 6px;
