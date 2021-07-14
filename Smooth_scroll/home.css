@@ -130,7 +130,7 @@ background: linear-gradient(to right, #49a09d, #5f2c82); /* W3C, IE 10+/ Edge, F
 		display: grid;
 		grid-template-columns: auto;
 		margin: 0;
-		width: 100%;
+		width: 95%;
 		position: absolute;
 		top: -1000px;
 		opacity: 1;
